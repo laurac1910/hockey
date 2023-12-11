@@ -1,0 +1,154 @@
+* {
+    color: black;
+    background-color: rgb(101, 155, 203);
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    margin: 10px 5px;
+    color: black;
+    background-color: rgb(138, 190, 234);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header>img {
+    width: 90px;
+    margin-left: 40px;
+    display: inline;
+    margin-bottom: 20px;
+    position: absolute;
+    background-color: rgb(138, 190, 234);
+
+}
+
+header>h1 {
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    margin-left: 50px;
+    padding-right: 30%;
+    padding-left: 90px;
+    text-align: center;
+    background-color: rgb(138, 190, 234);
+
+
+}
+
+.home {
+    margin: 10px 100px 10px 300px;
+    background-color: rgb(142, 193, 235);
+}
+
+div>img {
+    background-color: rgb(138, 190, 234);
+    width: 90vw;
+    height: 50vh;
+    object-fit: cover;
+    object-position: 0% 40%;
+    padding: 10px 10px;
+    border-style: outset;
+}
+
+div>nav {
+    text-align: end;
+    padding-left: 360px;
+    background-color: rgb(138, 190, 234)
+}
+
+div>nav>a {
+    color: black;
+    margin: 2px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(138, 190, 234);
+    background-color: rgb(138, 190, 234);
+    text-decoration: none;
+
+}
+
+.titles {
+    margin: 10px 20px 10px 50px;
+    background-color: rgb(138, 190, 234);
+
+
+}
+
+div>h1 {
+
+    text-align: center;
+    background-color: rgb(138, 190, 234);
+    text-decoration: underline;
+    color: black;
+    font-size: x-large;
+
+
+
+}
+
+section>img {
+    display: inline;
+    width: 400px;
+    margin-bottom: 80px;
+    margin-left: 700px;
+    position: absolute;
+    border-style: outset;
+
+}
+
+.about {
+    display: inline-block;
+    text-align: left;
+    margin: 5px 150px 10px 100px;
+    color: antiquewhite;
+    font-size: x-large;
+}
+
+
+.mision {
+    font-size: x-large;
+    display: inline-block;
+    padding-bottom: 200px;
+    margin: 0px 200px 20px 200px;
+
+}
+
+
+section>h3 {
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+div>h2 {
+    margin: 20%;
+    margin-top: 5%;
+    margin-left: 10px;
+    display: inline;
+    text-decoration: none;
+    background-color: rgb(62, 136, 200);
+
+}
+
+#img3 {
+    display: inline;
+    width: 150px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.email {
+
+    text-decoration: none;
+    text-align: left;
+    margin: 20px 200px 15px 250px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    color: antiquewhite;
+    font-size: x-large;
+    color: rgb(62, 136, 200);
+}
